@@ -1,8 +1,6 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Bienvenido a mi Proyecto Final.
+Lo que hice fue crear un especie de pagina para una aplicacion tipo Openbanking, que le permitiria al usuario usar cualquier tipo de tarjeta, desde una sola aplicacion.
+Fue creada con Vite React y Tailwind Css.
+El diseño lo tome prestado de un proyecto de Figma. https://www.figma.com/file/bUGIPys15E78w9bs1l4tgS/HooBank?type=design&node-id=310-485&mode=design
+Cuenta con un NavBar interactivo, links a distintas redes en el footer, y un boton que dice Get Started, pero no funciona lo cree simplemente como placeholder.
+Espero le guste.

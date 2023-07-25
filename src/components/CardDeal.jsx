@@ -10,8 +10,8 @@ const CardDeal = () => (
         steps.
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        Arcu tortor, purus in mattis at sed integer faucibus. Aliquet quis
-        aliquet eget mauris tortor.ç Aliquet ultrices ac, ametau.
+        Welcome to the future of open banking. Scroll through a variety of credit cards
+        of your selection.
       </p>
 
       <Button styles={`mt-10`} />
